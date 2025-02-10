@@ -13,6 +13,7 @@ Este es un repositorio realizado para practicar las principales funcionalidades 
 
 ### - Referencias
 ### - Imágenes
+### - Ejémplos de código
 
 ## Referencias
 
@@ -25,3 +26,8 @@ Este es un repositorio realizado para practicar las principales funcionalidades 
 ## Imágenes
 
 ![Logo de GitHub](/github_logo.png)
+
+## Ejemplos de código
+
+### Código de Python para sumar 2 números
+```a=1+2```
