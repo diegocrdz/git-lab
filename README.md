@@ -2,6 +2,7 @@
 
 **Estudiante:**
 Diego Córdova Rodríguez, A01781166
+
 **Profesor:**
 Octavio Navarro
 
@@ -14,6 +15,7 @@ Este es un repositorio realizado para practicar las principales funcionalidades 
 ### - Referencias
 ### - Imágenes
 ### - Ejémplos de código
+### - Listas
 
 ## Referencias
 
@@ -31,3 +33,8 @@ Este es un repositorio realizado para practicar las principales funcionalidades 
 
 ### Código de Python para sumar 2 números
 ```a=1+2```
+
+### Listas
+- [x] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
