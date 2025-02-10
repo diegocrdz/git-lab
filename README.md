@@ -29,6 +29,8 @@ Este es un repositorio realizado para practicar las principales funcionalidades 
 
 ![Logo de GitHub](/github_logo.png)
 
+![Logo del Tecnológico de Monterrey](https://javier.rodriguez.org.mx/itesm/2014/tecnologico-de-monterrey-blue-med.png)
+
 ## Ejemplos de código
 
 ### Código de Python para sumar 2 números
