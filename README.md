@@ -12,6 +12,7 @@ Este es un repositorio realizado para practicar las principales funcionalidades 
 ## Contenidos
 
 ### - Referencias
+### - Imágenes
 
 ## Referencias
 
@@ -20,3 +21,7 @@ Este es un repositorio realizado para practicar las principales funcionalidades 
 [Github glossary](https://docs.github.com/en/get-started/learning-about-github/github-glossary)
 
 [Git documentation](https://git-scm.com/doc)
+
+## Imágenes
+
+![Logo de GitHub](/github_logo.png)
