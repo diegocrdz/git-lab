@@ -1,8 +1,11 @@
 # Laboratorio de Git y GitHub 👾
 
 **Bloque:** Construcción de software y toma de decisiones
+
 **Grupo:** 401
+
 **Profesor:** Octavio Navarro Hinojosa
+
 **Estudiante:** Diego Córdova Rodríguez, A01781166
 
 ---
